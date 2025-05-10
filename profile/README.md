@@ -1,5 +1,5 @@
 # TAU Intelligence
-### 'Intelligence for Trusted Autonomy in Uncertain Environments'
+### _Intelligence for Trusted Autonomy in Uncertain Environments_
 <img src="https://github.com/user-attachments/assets/4f6d77e9-fa73-433e-8238-59d664dc4d4e" width="200">
 
 - We build safe, intelligent systems that operate reliably in the real world—where unpredictability isn’t a bug, it’s the default.
